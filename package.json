@@ -1,0 +1,31 @@
+{
+  "name": "test_project",
+  "version": "1.0.1",
+  "description": "It is a try project for learning ant experimenting",
+  "main": "server.js",
+  "scripts": {
+    "test": "test command",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "node-markdown": "0.1.0",
+    "connect": "1.9.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrarjahin/node.js_test.git"
+  },
+  "keywords": [
+    "git",
+    "test"
+  ],
+  "author": "Abrar Jahin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abrarjahin/node.js_test/issues"
+  },
+  "homepage": "https://github.com/abrarjahin/node.js_test#readme",
+  "devDependencies": {
+    "jshint": "^2.8.0"
+  }
+}
